@@ -6,3 +6,5 @@ I looked for Spike-Fuzzer ( Spike on Archlinux ) everywhere on github and didn't
 BTW : to use spike commands ! don't forget to add 'spike-fuzzer-' before that 
 
 `Ex: "generic-send_tcp" ` becomes  `"spike-fuzzer-generic-send_tcp" `
+
+## Installation :
